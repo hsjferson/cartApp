@@ -1,2 +1,2 @@
 # cartApp
- 🍃 Rest API example with unit test
+ 🍃 Rest API integration
